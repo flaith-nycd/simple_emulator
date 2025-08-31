@@ -1,4 +1,3 @@
-//https://chat.deepseek.com/a/chat/s/488a2ba9-6f8c-44de-b3b2-ff94f8a7e235
 /*
 SimpleEmulator.rs d'après "D:\PROJECTS\APPLE\SimpleEmulator.pb"
 
