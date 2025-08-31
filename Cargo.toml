@@ -2,5 +2,6 @@
 name = "simple_emulator"
 version = "0.1.0"
 edition = "2024"
+authors = ["Nicolas Djurovic <flaithotw@gmail.com>"]
 
 [dependencies]
